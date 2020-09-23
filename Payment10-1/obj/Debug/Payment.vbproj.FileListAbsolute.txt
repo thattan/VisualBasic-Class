@@ -1,0 +1,61 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Form1.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Form1.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 10\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.exe.config
+C:\VB 2015\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.exe.config
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.exe
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.xml
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.pdb
+C:\VB 2015\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.exe
+C:\VB 2015\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.pdb
+C:\VB 2015\Exercise starts\Chapter 10\Payment\bin\Debug\Payment.xml
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Form1.resources
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.Resources.resources
+C:\VB 2015\Exercise starts\Chapter 10\Payment\obj\Debug\Payment.vbproj.GenerateResource.Cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\bin\Debug\Payment.exe.config
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\bin\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\bin\Debug\Payment.pdb
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\bin\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.vbprojAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.frmCustomer.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.frmPayment.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.Resources.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.vbproj.GenerateResource.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1Start\obj\Debug\Payment.pdb
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\bin\Debug\Payment.exe.config
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\bin\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\bin\Debug\Payment.pdb
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\bin\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.vbprojAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.frmCustomer.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.frmPayment.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.Resources.resources
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.vbproj.GenerateResource.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.pdb

@@ -1,0 +1,54 @@
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.xml
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.Resources.resources
+C:\Documents and Settings\anne\My Documents\Visual Basic 2008\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.vbproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2010\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.xml
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.Resources.resources
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.vbproj.GenerateResource.Cache
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.xml
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\bin\Debug\InvoiceTotal.xml
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.Resources.resources
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.vbproj.GenerateResource.Cache
+C:\VB 2015\Exercise starts\Chapter 05\InvoiceTotal\obj\Debug\InvoiceTotal.vbprojResolveAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\bin\Debug\InvoiceTotal.exe.config
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\bin\Debug\InvoiceTotal.exe
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\bin\Debug\InvoiceTotal.pdb
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\bin\Debug\InvoiceTotal.xml
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.vbprojAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.Resources.resources
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.vbproj.GenerateResource.cache
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.exe
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.xml
+C:\Users\tyler\Desktop\VisualBasicClass\InvoiceTotal5-1Start\obj\Debug\InvoiceTotal.pdb

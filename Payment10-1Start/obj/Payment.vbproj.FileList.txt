@@ -1,0 +1,10 @@
+bin\Debug\Payment.exe
+bin\Debug\Payment.pdb
+bin\Debug\Payment.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Payment.Resources.resources
+obj\Debug\Payment.vbproj.GenerateResource.Cache
+obj\Debug\Payment.exe
+obj\Debug\Payment.xml
+obj\Debug\Payment.pdb
+obj\Debug\Payment.Form1.resources
