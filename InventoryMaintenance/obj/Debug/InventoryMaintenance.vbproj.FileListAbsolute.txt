@@ -1,0 +1,16 @@
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise solutions\Chapter 12\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\Visual Basic 2012\Extra exercise starts\Chapter 11\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\VB 2015\Extra exercise starts\Chapter 11\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbprojAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.Resources.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.GenerateResource.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\bin\Debug\InventoryMaintenance.xml
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.xml
+C:\Users\tyler\Desktop\VisualBasic-Class\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb

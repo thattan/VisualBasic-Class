@@ -59,3 +59,16 @@ C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.vbproj.Cor
 C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.exe
 C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.xml
 C:\Users\tyler\Desktop\VisualBasicClass\Payment10-1\obj\Debug\Payment.pdb
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\bin\Debug\Payment.exe.config
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\bin\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\bin\Debug\Payment.pdb
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\bin\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.vbprojAssemblyReference.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.frmCustomer.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.frmPayment.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.Resources.resources
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.vbproj.GenerateResource.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.vbproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.exe
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.xml
+C:\Users\tyler\Desktop\VisualBasic-Class\Payment10-1\obj\Debug\Payment.pdb
